@@ -14,7 +14,7 @@ timezone: Europe/Paris
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: 0x1439 # the main title
+title: "0x1439" # the main title
 
 tagline: Purple Team Enjoyer # it will display as the sub-title
 
@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
 url: "https://0x1439.github.io"
 
 github:
-  username: 0x1439 # change to your github username
+  username: "0x1439" # change to your github username
 
 #twitter:
 #  username: twitter_username # change to your twitter username
@@ -34,7 +34,7 @@ github:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: 0x1439
+  name: "0x1439"
   #email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
@@ -148,7 +148,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: "https://0x1439.github.io"
+baseurl: "/"
 
 # ------------ The following options are not recommended to be modified ------------------
 
